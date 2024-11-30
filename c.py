@@ -1,0 +1,1 @@
+print("hellow from c file")
